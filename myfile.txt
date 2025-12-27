@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains multiple lines of text.
+Each line can be read and processed.
+this is the last line.
